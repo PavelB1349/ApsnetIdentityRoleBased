@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daz13\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProgrammingNewLife\\ApsnetIdentityRoleBased\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{750C0515-560A-4696-BA23-2A86569D4093}|ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased.csproj|c:\\users\\daz13\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmingnewlife\\apsnetidentityrolebased\\apsnetidentityrolebased\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750C0515-560A-4696-BA23-2A86569D4093}|ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased.csproj|solutionrelative:apsnetidentityrolebased\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750C0515-560A-4696-BA23-2A86569D4093}|ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased.csproj|c:\\users\\daz13\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmingnewlife\\apsnetidentityrolebased\\apsnetidentityrolebased\\services\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750C0515-560A-4696-BA23-2A86569D4093}|ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased.csproj|solutionrelative:apsnetidentityrolebased\\services\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750C0515-560A-4696-BA23-2A86569D4093}|ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased.csproj|c:\\users\\daz13\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmingnewlife\\apsnetidentityrolebased\\apsnetidentityrolebased\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750C0515-560A-4696-BA23-2A86569D4093}|ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased.csproj|solutionrelative:apsnetidentityrolebased\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750C0515-560A-4696-BA23-2A86569D4093}|ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased.csproj|c:\\users\\daz13\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmingnewlife\\apsnetidentityrolebased\\apsnetidentityrolebased\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{750C0515-560A-4696-BA23-2A86569D4093}|ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased.csproj|solutionrelative:apsnetidentityrolebased\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750C0515-560A-4696-BA23-2A86569D4093}|ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased.csproj|c:\\users\\daz13\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmingnewlife\\apsnetidentityrolebased\\apsnetidentityrolebased\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750C0515-560A-4696-BA23-2A86569D4093}|ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased.csproj|solutionrelative:apsnetidentityrolebased\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750C0515-560A-4696-BA23-2A86569D4093}|ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased.csproj|c:\\users\\daz13\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmingnewlife\\apsnetidentityrolebased\\apsnetidentityrolebased\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{750C0515-560A-4696-BA23-2A86569D4093}|ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased.csproj|solutionrelative:apsnetidentityrolebased\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750C0515-560A-4696-BA23-2A86569D4093}|ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased.csproj|c:\\users\\daz13\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmingnewlife\\apsnetidentityrolebased\\apsnetidentityrolebased\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750C0515-560A-4696-BA23-2A86569D4093}|ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased.csproj|solutionrelative:apsnetidentityrolebased\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750C0515-560A-4696-BA23-2A86569D4093}|ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased.csproj|c:\\users\\daz13\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmingnewlife\\apsnetidentityrolebased\\apsnetidentityrolebased\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750C0515-560A-4696-BA23-2A86569D4093}|ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased.csproj|solutionrelative:apsnetidentityrolebased\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750C0515-560A-4696-BA23-2A86569D4093}|ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased.csproj|c:\\users\\daz13\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmingnewlife\\apsnetidentityrolebased\\apsnetidentityrolebased\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750C0515-560A-4696-BA23-2A86569D4093}|ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased.csproj|solutionrelative:apsnetidentityrolebased\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750C0515-560A-4696-BA23-2A86569D4093}|ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased.csproj|c:\\users\\daz13\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmingnewlife\\apsnetidentityrolebased\\apsnetidentityrolebased\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750C0515-560A-4696-BA23-2A86569D4093}|ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased.csproj|solutionrelative:apsnetidentityrolebased\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "C:\\Users\\daz13\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProgrammingNewLife\\ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased\\Services\\IFileService.cs",
+              "RelativeDocumentMoniker": "ApsnetIdentityRoleBased\\Services\\IFileService.cs",
+              "ToolTip": "C:\\Users\\daz13\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProgrammingNewLife\\ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased\\Services\\IFileService.cs",
+              "RelativeToolTip": "ApsnetIdentityRoleBased\\Services\\IFileService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:27:21.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\daz13\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProgrammingNewLife\\ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "ApsnetIdentityRoleBased\\Services\\FileService.cs",
+              "ToolTip": "C:\\Users\\daz13\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProgrammingNewLife\\ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased\\Services\\FileService.cs",
+              "RelativeToolTip": "ApsnetIdentityRoleBased\\Services\\FileService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:21:04.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\daz13\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProgrammingNewLife\\ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ApsnetIdentityRoleBased\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\daz13\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProgrammingNewLife\\ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeToolTip": "ApsnetIdentityRoleBased\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAcwHMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:53:46.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\daz13\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProgrammingNewLife\\ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "ApsnetIdentityRoleBased\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\daz13\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProgrammingNewLife\\ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeToolTip": "ApsnetIdentityRoleBased\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T11:53:38.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\daz13\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProgrammingNewLife\\ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "ApsnetIdentityRoleBased\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\daz13\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProgrammingNewLife\\ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "ApsnetIdentityRoleBased\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAUwHoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:35:48.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\daz13\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProgrammingNewLife\\ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ApsnetIdentityRoleBased\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\daz13\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProgrammingNewLife\\ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "ApsnetIdentityRoleBased\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T11:35:40.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daz13\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProgrammingNewLife\\ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased\\Program.cs",
+              "RelativeDocumentMoniker": "ApsnetIdentityRoleBased\\Program.cs",
+              "ToolTip": "C:\\Users\\daz13\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProgrammingNewLife\\ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased\\Program.cs",
+              "RelativeToolTip": "ApsnetIdentityRoleBased\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAEwAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:22:02.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\daz13\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProgrammingNewLife\\ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased\\Data\\Product.cs",
+              "RelativeDocumentMoniker": "ApsnetIdentityRoleBased\\Data\\Product.cs",
+              "ToolTip": "C:\\Users\\daz13\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProgrammingNewLife\\ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased\\Data\\Product.cs",
+              "RelativeToolTip": "ApsnetIdentityRoleBased\\Data\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:16:46.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\daz13\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProgrammingNewLife\\ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ApsnetIdentityRoleBased\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\daz13\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProgrammingNewLife\\ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ApsnetIdentityRoleBased\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:15:20.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\daz13\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProgrammingNewLife\\ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ApsnetIdentityRoleBased\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\daz13\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProgrammingNewLife\\ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "ApsnetIdentityRoleBased\\Data\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:10:29.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
