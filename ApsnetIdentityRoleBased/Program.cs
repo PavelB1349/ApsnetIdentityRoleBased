@@ -1,4 +1,5 @@
 using ApsnetIdentityRoleBased.Data;
+using ApsnetIdentityRoleBased.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -6,7 +7,7 @@ namespace ApsnetIdentityRoleBased
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static async Task Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
 
@@ -18,10 +19,14 @@ namespace ApsnetIdentityRoleBased
             //builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<ApplicationDbContext>();
             builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
+            // менял 
             builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
                 .AddEntityFrameworkStores<ApplicationDbContext>()
                 .AddDefaultUI()
                 .AddDefaultTokenProviders();
+            builder.Services.AddScoped<IFileService, FileService>();
+
+
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
@@ -49,6 +54,12 @@ namespace ApsnetIdentityRoleBased
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}");
             app.MapRazorPages();
+
+            // добавил
+            using (var scope = app.Services.CreateScope())
+            {
+                await DbSeeder.SeedRolesAndAdminAsync(scope.ServiceProvider);
+            }
 
             app.Run();
         }

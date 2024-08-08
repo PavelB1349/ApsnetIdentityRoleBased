@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PYt8UHChBhl1yB3oBirMis9EvKldElMDykAhCDWCi54=",
+  "Hash": "yQCUjDBk13zdWDwMpkRV2fEkJDZM7W84tVPaPMm+O6A=",
   "Source": "ApsnetIdentityRoleBased",
   "BasePath": "_content/ApsnetIdentityRoleBased",
   "Mode": "Default",
@@ -2333,6 +2333,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\daz13\\OneDrive\\Рабочий стол\\ProgrammingNewLife\\ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased\\wwwroot\\Uploads\\7bb2be6a-2d9e-484b-8558-a85c4ee7f266.png",
+      "SourceId": "ApsnetIdentityRoleBased",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\daz13\\OneDrive\\Рабочий стол\\ProgrammingNewLife\\ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased\\wwwroot\\",
+      "BasePath": "_content/ApsnetIdentityRoleBased",
+      "RelativePath": "Uploads/7bb2be6a-2d9e-484b-8558-a85c4ee7f266.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\7bb2be6a-2d9e-484b-8558-a85c4ee7f266.png"
     }
   ]
 }

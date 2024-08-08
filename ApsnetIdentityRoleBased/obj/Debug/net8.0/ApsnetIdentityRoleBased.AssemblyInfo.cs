@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApsnetIdentityRoleBased")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+def2a71226cc62663aaf7be8627face858957c6d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApsnetIdentityRoleBased")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApsnetIdentityRoleBased")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

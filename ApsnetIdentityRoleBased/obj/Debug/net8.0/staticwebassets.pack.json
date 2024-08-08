@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\ApsnetIdentityRoleBased.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\daz13\\OneDrive\\Рабочий стол\\ProgrammingNewLife\\ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased\\wwwroot\\Uploads\\7bb2be6a-2d9e-484b-8558-a85c4ee7f266.png",
+      "PackagePath": "staticwebassets\\Uploads\\7bb2be6a-2d9e-484b-8558-a85c4ee7f266.png"
+    },
+    {
       "Id": "C:\\Users\\daz13\\OneDrive\\Рабочий стол\\ProgrammingNewLife\\ApsnetIdentityRoleBased\\ApsnetIdentityRoleBased\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

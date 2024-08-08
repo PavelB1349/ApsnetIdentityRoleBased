@@ -19,6 +19,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.WebUtilities;
 using Microsoft.Extensions.Logging;
+using ApsnetIdentityRoleBased.Constants;
 
 namespace ApsnetIdentityRoleBased.Areas.Identity.Pages.Account
 {
@@ -123,8 +124,10 @@ namespace ApsnetIdentityRoleBased.Areas.Identity.Pages.Account
 
                 if (result.Succeeded)
                 {
-                    _logger.LogInformation("User created a new account with password.");
+                    // строку добавил
+                    await _userManager.AddToRoleAsync(user, Roles.User.ToString());
 
+                    _logger.LogInformation("User created a new account with password.");
                     var userId = await _userManager.GetUserIdAsync(user);
                     var code = await _userManager.GenerateEmailConfirmationTokenAsync(user);
                     code = WebEncoders.Base64UrlEncode(Encoding.UTF8.GetBytes(code));

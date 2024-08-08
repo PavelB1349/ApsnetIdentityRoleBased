@@ -11,7 +11,7 @@
     @if (!string.IsNullOrEmpty(Model.Input.ProfilePicture))
     {
         <div class="col-md-4">
-            <img src="/Uploads/@Model.Input.ProfilePicture" style="width = 250px; height = 300px"/>
+            <img src="/Uploads/@Model.Input.ProfilePicture" style="max-width = 250px; max-height = 300px"/>
         </div>
     }
     <div class="col-md-6">
@@ -31,7 +31,7 @@
                 <label asp-for="Input.Name" class="form-label"></label>
                 <span asp-validation-for="Input.Name" class="text-danger"></span>
             </div>
-            <div class="form-floating mb-3">
+            <div class="m-2">
                 <label class="form-label" for="ProfilePicture">Картинка пользователя</label>
                 <input asp-for="Input.ImageFile"/>
             </div>
